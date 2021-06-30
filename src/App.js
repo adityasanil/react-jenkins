@@ -18,8 +18,6 @@ function App() {
           Learn React
         </a>
         <p>Hello Jenkins is working</p>
-        <p>The pipe is fine!</p>
-        <p>DEMO</p>
       </header>
     </div>
   );
